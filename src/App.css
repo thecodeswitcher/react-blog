@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata&display=swap');
+
+
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .App-logo {
@@ -9,7 +16,7 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 20%;
   padding: 20px;
   color: white;
 }
@@ -21,4 +28,50 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+#logo-and-title{
+  display:flex;
+  flex-direction: column;
+  margin-top: 10%;
+}
+
+body{
+  font-family:'Literata',serif;
+  font-size: 2vh;
+}
+
+h1{
+  margin:auto;
+}
+
+h2{
+  margin:auto;
+}
+.meditating-lake{
+  width:90%
+}
+
+ol{
+  text-align:left;
+}
+
+.homepage-copy{
+  margin: 2% 5%;
+  text-indent: 0;
+  text-align:left;
+}
+
+.PostPreview{
+  width: 80%;
+  text-align:left;
+}
+
+.PostPreview h3{
+  text-align:center;
+}
+
+.CurrentBlogPost{
+  text-align:left;
+  margin: 0 5%;
 }

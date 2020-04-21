@@ -1,0 +1,169 @@
+export const articleMetadata = [{"file":"firstPost.html",
+                            "title":"3 Transferable Skills to Learn During the Crisis",
+                            "author":"Jonathan Ramirez",
+                            "description":"Take advantage of the free time and isolation of the corona virus crisis and learn to code and other transferable skills to thrive during recessions and crises.",
+                            "text":`<h3>3 Transferable Skills to Learn During the Crisis</h3>
+
+                            <h4>The Most Adaptable Thrive</h4>
+                            
+                            <p><em>“The green reed which bends in the wind is stronger than the mighty oak which breaks in a storm.”</em> -Confucious</p>
+                            
+                            <p>The corona virus epidemic has caused global disruption. Why is this happening on such a large scale economically? 
+                                People have had to <strong>adapt</strong> quickly. 
+                            </p>
+                            
+                            <p>Logistically, in-person meetings are no longer possible. In fact, any in-person work has been significantly reduced. Logically, these are the most negatively affected people.</p>
+                            
+                            <p>If you're now working from home and find yourself with a much more flexible, commute-free schedule, here are some profitable skills you can learn to come out ahead during the crisis (and no they're not all coding).</p>
+                            
+                            <h4>Data Analysis</h4>
+                            
+                            <p>Data Science and Machine Learning have become almost <em>cliché</em> buzzwords that all employers want but few understand.</p>
+                            
+                            <p>Data <em>analysis</em> is a necessary pre-requisite that doesn't require complex math, but has large implications.</p>
+                            
+                            <p>Data analysis features prominently in the news, vlogs, articles, and any kind of informational content. The ability to make an argument supported by numbers has been rapidly growing in demand. 
+                                Researching trends are even more important especially when the stock market and wider economy are in a state of flux and uncertainty.
+                            </p>
+                            
+                            <p>What tools do data analysts use?</p>
+                            
+                            <ul>
+                                <li>Excel</li>
+                                <li>SQL</li>
+                                <li>Python/R</li>
+                            </ul>
+                            
+                            <h5>Excel</h5>
+                            <p>I bet you weren't expecting this article to promote learning spreadsheets, but even the most seasoned data scientist will occassionally have to work with Excel (however lightly) for one project or another.</p>
+                            <p>How deeply you have to learn Excel depends on the company and the project, but there are basics that everyone should know (even if you're not a data analyst).</p>
+                            
+                            <ul>
+                                <li>Charts (bar, line, scatter plots)</li>
+                                <li>Filtering</li>
+                                <li>Pivot tables</li>
+                                <li>Formulas (SUMIF, AVGIF, VLOOKUP)</li>
+                            </ul>
+                            
+                            <p>This isn't an exhaustive list, but the main idea is to master these 3 competencies:</p>
+                            
+                            <ul>
+                                <li>Data cleaning: get messy data into the form you need</li>
+                                <li>Insights derivation: If you have 10,000 rows of data, what trends are we seeing</li>
+                                <li>Data presentation: Be able to present these insights visually (and verbally), so non-technical people can understand them.</li>
+                            </ul>
+                            
+                            <p>We could probably stop the list here because every single industry needs people that can clean, reshape, and present data. If you master these in Excel, it's all just learning a new tool.</p>
+                            
+                            <h5>SQL</h5>
+                            
+                            <p>After getting comfortable with the 3 basic data competencies, SQL is a great next step to be able to pull large amounts of data.</p>
+                            
+                            <p>Develop some of the most frequently used skills:</p>
+                            <ul>
+                                <li>JOINs: Combine one dataset to another.</li>
+                                <li>Filtering: Just like in Excel, learn how to get specific sub-populations and the data you need.</li>
+                                <li>Aggregate functions and grouping: Like in Excel, you can get averages and sums from an entire dataset. But now you can get averages <em>by a particular group</em>. (e.g. Average time on Reddit by age group)</li>
+                            </ul>
+                            
+                            <p>If you search on Indeed or LinkedIn with just the keyword SQL, you'll get a good idea of the skill's demand and <strong>transferability</strong>.</p>
+                            
+                            <h5>Python/R</h5>
+                            
+                            <p>I want to preface this section by saying that with Excel and SQL alone, 
+                                you already have put yourself in a very strong position career-wise. 
+                                Those two skills can set you up to be a business analyst that's constantly
+                                 getting LinkedIn DMs to interview at other companies.
+                            </p>
+                            
+                            <p>Still, learning Python or R will help you automate a lot of repetitive tasks.</p>
+                            
+                            <p>I have a friend that works at a trading firm as a data analyst. Python/R is not a pre-requisite, but every day, the analysts have to give a report on certain stocks and indicies.</p>
+                            
+                            <p>Other analysts just use Excel and manually produce the report every day. My friend has set a process to run on his computer every day before work that pulls the data, produces the chart, and emails it out.</p>
+                            
+                            <p>People prefer reading his reports because they have minimal errors and come at a consistent time.</p>
+                            
+                            <p>Even people that have been making spreadsheets for 10+ years make mistakes. If you learn the basics of Python or R, you can write a script to produce a report <em>once</em> and have that run everyday without mistakes.</p>
+                            
+                            As a minimum, learn these skills:
+                            
+                            <ul>
+                                <li>Reading .csvs and .xlsx documents</li>
+                                <li>Cleaning data</li>
+                                <li>Producing charts</li>
+                                <li>Daily running of scripts (i.e. cron jobs)</li>
+                            </ul>
+                            
+                            <h4>Coding</h4>
+                            
+                            <p>I'm going to be that guy now. No, this section isn't going to be #learntocode.</p>
+                            <p>Instead, we're going to look at coding from a different angle: creativity and building.</p>
+                            <p>For me, coding and building projects feel like playing with Legos. Once you learn how to fit the pieces together,
+                                you can make any idea you have into a reality.
+                            </p>
+                            <p>When I learn a new technology, I start getting ideas about how I could make my 
+                                life easier with it. For example, when we learned to build basic web applications with
+                                machine learning back-ends, I started coming up with ideas like
+                            </p>
+                            
+                            <ul>
+                                <li>automating political research</li>
+                                <li>sending daily reports on how the stock market reacts to the news</li>
+                                <li>making Spotify mixtapes for a crush</li>
+                            </ul>
+                            
+                            <p>Before talking about the core competencies, here are some resources to learn programming basics (not afiliate links, I used these myself when I started learning):</p>
+                            
+                            <ul>
+                                <li><a href="https://www.codecademy.com/">Codecademy</a>: Gamified learning with a free version</li>
+                                <li><a href="http://udemy.com">Udemy</a>: frequent sales on great courses</li>
+                                <li><a href="http://teamtreehouse.com">Team Tree House</a>: Monthly subscription for a wide breadth of skills</li>
+                            </ul>
+                            
+                            <p>I suggest you try Codecademy first to see if you even <em>like</em> programming.
+                                It would be great to have a basic knowledge to supplement any other skills you already have,
+                                but if you're thinking about a career change, make sure that you actually <em>enjoy</em> what 
+                                you'll be doing for 2000 hours a year.
+                            </p>
+                            
+                            <p>The core competencies that I suggest you learn will surprise you because they're not basic programming skills:</p>
+                            
+                            <ul>
+                                <li>Meta learning: learn how <em>you</em> learn best.</li>
+                                <li>How to Google: Seriously, learning <em>how</em> to use Google when you find a bug in your program will save you a lot of time. It's really <em>how to research.</em></li>
+                                <li>Problem solving: If someone needs a new tool,
+                                     you can buckle down, do the research, learn new skills (<em>hmmm...aren't those the other two skills?</em>), and build a solution.</li>
+                            </ul>
+                            
+                            <p>Programming is really about those three competencies. Yes, you do have to learn how to declare variables, use loops, and work with files. 
+                                But adaptable, in-demand workers in any field have mastered those 3 competencies.</p>
+                            
+                            <h4>What does that mean for you?</h4>
+                            <p>To be fair, the pandemic has affected <em>everyone</em>.</p>
+                            
+                            <p>But there are some that aren't struggling as much as the rest of the workforce.</p>
+                            
+                            <p>Most office jobs have allowed people to work from home. A friend actually commented that <em>"Now we'll really see which meetings could have been emails."</em> 
+                                Those lucky to be in those positions can indeed continue to work, <em>but,</em> if the business' main source of revenue relies on in-person experiences, layoffs could happen at any time.</p>
+                            
+                            <p><strong>Transferable skills</strong> are some of the most valuable commodities in a crisis (and arguably even beyond).</p>
+                            
+                            Here's why:
+                            
+                            <ol>
+                                <li>They are portable.</li>
+                                <li>They make you independent.</li>
+                                <li>You can build with them.</li>
+                            </ol>
+                            
+                            <p>Soft skills and networking are absolutely essential as well, but you <em>can</em> learn both at the same time.</p>
+                            <p>In fact, you should. If you don't pay attention to soft skills, you may get passed up for promotions or you might
+                                not be able to advertise yourself as effectively if you're self-employed.
+                            </p>
+                            <p>On the flip side, if you're only focused on networking and people skills but have no transferable skills, crises and layoffs will hit you hard.</p>
+                            <p>Those that have both can frame any career transitions as opportunities to skill up, meet new people, 
+                                and come out even more employable on the other end of this.
+                            </p>`                
+}
+];
