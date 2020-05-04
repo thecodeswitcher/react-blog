@@ -1,11 +1,15 @@
 import React from 'react';
 
-const BlogHeader = () => {
+const BlogHeader = (props) => {
+
     return (
-        <div id='logo-and-title'>
-            <h1>The Mindful</h1>
-            <h2 className='title-line2'>Programmer</h2>
+        <div id='full-header'>
+            <div id='logo-and-title'>
+                <h3>The Mindful Programmer</h3>                 
+            </div>
+            <span id='dots' onClick={props.openNav}>...</span>
         </div>
     );
 }
+
 export default BlogHeader;

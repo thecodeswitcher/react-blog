@@ -2,8 +2,9 @@ export const articleMetadata = [{"file":"firstPost.html",
                             "title":"3 Transferable Skills to Learn During the Crisis",
                             "author":"Jonathan Ramirez",
                             "description":"Take advantage of the free time and isolation of the corona virus crisis and learn to code and other transferable skills to thrive during recessions and crises.",
+                            "sections":["The Most Adaptable Thrive","Data Analysis","Coding","What does that mean for you?"],
                             "text":`<h3>3 Transferable Skills to Learn During the Crisis</h3>
-
+                            <section id='section1'>
                             <h4>The Most Adaptable Thrive</h4>
                             
                             <p><em>“The green reed which bends in the wind is stronger than the mighty oak which breaks in a storm.”</em> -Confucious</p>
@@ -15,7 +16,8 @@ export const articleMetadata = [{"file":"firstPost.html",
                             <p>Logistically, in-person meetings are no longer possible. In fact, any in-person work has been significantly reduced. Logically, these are the most negatively affected people.</p>
                             
                             <p>If you're now working from home and find yourself with a much more flexible, commute-free schedule, here are some profitable skills you can learn to come out ahead during the crisis (and no they're not all coding).</p>
-                            
+                            </section>
+                            <section id='section2'>
                             <h4>Data Analysis</h4>
                             
                             <p>Data Science and Machine Learning have become almost <em>cliché</em> buzzwords that all employers want but few understand.</p>
@@ -94,7 +96,9 @@ export const articleMetadata = [{"file":"firstPost.html",
                                 <li>Producing charts</li>
                                 <li>Daily running of scripts (i.e. cron jobs)</li>
                             </ul>
-                            
+                            </section>
+
+                            <section id='section3'>
                             <h4>Coding</h4>
                             
                             <p>I'm going to be that guy now. No, this section isn't going to be #learntocode.</p>
@@ -138,7 +142,9 @@ export const articleMetadata = [{"file":"firstPost.html",
                             
                             <p>Programming is really about those three competencies. Yes, you do have to learn how to declare variables, use loops, and work with files. 
                                 But adaptable, in-demand workers in any field have mastered those 3 competencies.</p>
-                            
+                            </section>
+
+                            <section id='section4'>
                             <h4>What does that mean for you?</h4>
                             <p>To be fair, the pandemic has affected <em>everyone</em>.</p>
                             
@@ -164,6 +170,38 @@ export const articleMetadata = [{"file":"firstPost.html",
                             <p>On the flip side, if you're only focused on networking and people skills but have no transferable skills, crises and layoffs will hit you hard.</p>
                             <p>Those that have both can frame any career transitions as opportunities to skill up, meet new people, 
                                 and come out even more employable on the other end of this.
-                            </p>`                
+                            </p>
+                            </section>
+                            `                
+},
+{"file":"firstPost.html",
+                            "title":"Test 1",
+                            "author":"Jonathan Ramirez",
+                            "description":"Testo",
+                            "text":`<h1> Test1 </h1>`
+},
+{"file":"firstPost.html",
+                            "title":"Test 2",
+                            "author":"Jonathan Ramirez",
+                            "description":"Testo",
+                            "text":`<h1> Test2 </h1>`
+},
+{"file":"firstPost.html",
+                            "title":"Test 3",
+                            "author":"Jonathan Ramirez",
+                            "description":"Testo",
+                            "text":`<h1> Test3 </h1>`
+},
+{"file":"firstPost.html",
+                            "title":"Test 4",
+                            "author":"Jonathan Ramirez",
+                            "description":"Testo",
+                            "text":`<h1> Test4 </h1>`
+},
+{"file":"firstPost.html",
+                            "title":"Test 5",
+                            "author":"Jonathan Ramirez",
+                            "description":"Testo",
+                            "text":`<h1> Test5 </h1>`
 }
 ];

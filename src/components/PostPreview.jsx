@@ -6,7 +6,7 @@ class PostPreview extends Component {
     }
     render(){
         return (
-            <div className='PostPreview' onClick={this.props.handleClick} title={this.props.title}>
+            <div className='PostPreview' onClick={this.props.toggleDisplayBlog} title={this.props.title}>
                 <h3>{this.props.title}</h3>
                 <p>{this.props.description}</p>
             </div>
